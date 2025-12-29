@@ -1,0 +1,9 @@
+{
+    "node_id": "manager_alpha_sv",
+    "protocol": "LBH-2025",
+    "security_level": "MAXIMUM",
+    "lockdown_threshold": 3,
+    "auth_signature": "01001100",
+    "mode": "SHADOW_ENABLED",
+    "location": "San Miguel, El Salvador"
+}
